@@ -1,1 +1,3 @@
 # web-scripts
+Short web scripts for automate some tasks.
+Repo will be updating....
